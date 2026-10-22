@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33818826/README.md)
 # Hitomi Tweak
 
 > ⚠️ **Disclosure / Pernyataan:** This script was made 100% using AI. / Script ini dibuat menggunakan AI 100%.
@@ -11,19 +10,19 @@ Userscript untuk hitomi.la: poster grid, mode gelap, reader scroll vertikal ala 
 
 | | |
 |---|---|
-| ![Settings](images/04-settings.webp) | ![Tag filter](images/06-tag-filter.webp) |
+| ![Settings](https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/04-settings.webp) | ![Tag filter](https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/06-tag-filter.webp) |
 | Settings panel (Indonesia / English) | Tag filter |
 
-![Gallery list](images/01-gallery-list.webp)
+![Gallery list](https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/01-gallery-list.webp)
 *Poster grid with detail cards*
 
-![Gallery page](images/02-gallery-page.webp)
+![Gallery page](https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/02-gallery-page.webp)
 *Gallery page with large thumbnails*
 
-![Webtoon reader](images/03-reader-webtoon.webp)
+![Webtoon reader](https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/03-reader-webtoon.webp)
 *Vertical webtoon-style reader*
 
-![Download picker](images/05-download-picker.webp)
+![Download picker](https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/05-download-picker.webp)
 *Image picker for ZIP / PDF downloads*
 
 ## Install
