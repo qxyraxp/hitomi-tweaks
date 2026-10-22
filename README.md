@@ -8,21 +8,31 @@ Userscript untuk hitomi.la: poster grid, mode gelap, reader scroll vertikal ala 
 
 ## Screenshots
 
-| | |
-|---|---|
-| ![Settings](https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/04-settings.webp) | ![Tag filter](https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/06-tag-filter.webp) |
-| Settings panel (Indonesia / English) | Tag filter |
+<table>
+<tr>
+<td width="60%"><img src="https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/04-settings.webp" alt="Settings" width="100%"></td>
+<td width="40%"><img src="https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/06-tag-filter.webp" alt="Tag filter" width="100%"></td>
+</tr>
+<tr>
+<td>Settings panel (Indonesia / English)</td>
+<td>Tag filter</td>
+</tr>
+</table>
 
-![Gallery list](https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/01-gallery-list.webp)
+<img src="https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/01-gallery-list.webp" alt="Gallery list" width="700">
+
 *Poster grid with detail cards*
 
-![Gallery page](https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/02-gallery-page.webp)
+<img src="https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/02-gallery-page.webp" alt="Gallery page" width="700">
+
 *Gallery page with large thumbnails*
 
-![Webtoon reader](https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/03-reader-webtoon.webp)
+<img src="https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/03-reader-webtoon.webp" alt="Webtoon reader" width="450">
+
 *Vertical webtoon-style reader*
 
-![Download picker](https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/05-download-picker.webp)
+<img src="https://raw.githubusercontent.com/qxyraxp/hitomi-tweaks/main/images/05-download-picker.webp" alt="Download picker" width="700">
+
 *Image picker for ZIP / PDF downloads*
 
 ## Install
