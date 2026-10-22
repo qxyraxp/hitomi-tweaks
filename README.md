@@ -1,6 +1,8 @@
 [README.md](https://github.com/user-attachments/files/33818826/README.md)
 # Hitomi Tweak
 
+> ⚠️ **Disclosure / Pernyataan:** This script was made 100% using AI. / Script ini dibuat menggunakan AI 100%.
+
 Userscript for [hitomi.la](https://hitomi.la): poster grid, dark mode, vertical webtoon-style reader, tag filter, hover preview, romaji titles, and a background download manager (ZIP / PDF / images).
 
 Userscript untuk hitomi.la: poster grid, mode gelap, reader scroll vertikal ala webtoon, filter tag, hover preview, judul romaji, dan unduhan di latar belakang.
